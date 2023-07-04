@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dest1yo.github.io</id>
+    <title>dest1yo&apos;s blog</title>
+    <updated>2023-07-04T17:09:20.011Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dest1yo.github.io"/>
+    <link rel="self" href="https://dest1yo.github.io/atom.xml"/>
+    <subtitle>123</subtitle>
+    <logo>https://dest1yo.github.io/images/avatar.png</logo>
+    <icon>https://dest1yo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, dest1yo&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[COD19武器 名称-代码 对照一览表]]></title>
+        <id>https://dest1yo.github.io/post/MW2022-codename/</id>
+        <link href="https://dest1yo.github.io/post/MW2022-codename/">
+        </link>
+        <updated>2023-07-02T14:57:08.000Z</updated>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>突击步枪</strong></th>
+<th style="text-align:left"><strong>代码名</strong></th>
+<th style="text-align:left"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">奇美拉</td>
+<td style="text-align:left">ar_mcbravo</td>
+<td style="text-align:left">SIG MCX RATTLER CANEBRAKE</td>
+</tr>
+<tr>
+<td style="text-align:left">拉克曼 556</td>
+<td style="text-align:left">ar_kilo53</td>
+<td style="text-align:left">HK53</td>
+</tr>
+<tr>
+<td style="text-align:left">STB556</td>
+<td style="text-align:left">ar_augolf</td>
+<td style="text-align:left">AUG</td>
+</tr>
+<tr>
+<td style="text-align:left">M4</td>
+<td style="text-align:left">ar_mike4</td>
+<td style="text-align:left">M4</td>
+</tr>
+<tr>
+<td style="text-align:left">M16</td>
+<td style="text-align:left">ar_mike16</td>
+<td style="text-align:left">M16</td>
+</tr>
+<tr>
+<td style="text-align:left">卡斯托夫 762</td>
+<td style="text-align:left">ar_akilo</td>
+<td style="text-align:left">AK103</td>
+</tr>
+<tr>
+<td style="text-align:left">卡斯托夫 74U</td>
+<td style="text-align:left">ar_akilo74</td>
+<td style="text-align:left">AKS74U</td>
+</tr>
+<tr>
+<td style="text-align:left">卡斯托夫 545</td>
+<td style="text-align:left">ar_akilo105</td>
+<td style="text-align:left">AK105</td>
+</tr>
+<tr>
+<td style="text-align:left">M13B</td>
+<td style="text-align:left">ar_mcharlie</td>
+<td style="text-align:left">MCX 5.56口径</td>
+</tr>
+<tr>
+<td style="text-align:left">TAQ-56</td>
+<td style="text-align:left">ar_scharlie</td>
+<td style="text-align:left">SCAR-L</td>
+</tr>
+<tr>
+<td style="text-align:left">ISO 汉姆洛克</td>
+<td style="text-align:left">ar_acharlie300</td>
+<td style="text-align:left">APC223/300</td>
+</tr>
+<tr>
+<td style="text-align:left">Tempus Razorback</td>
+<td style="text-align:left">ar_helima</td>
+<td style="text-align:left">Hellion/VHS-2</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">ar_malima</td>
+<td style="text-align:left">Malyuk</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>战斗步枪</strong></th>
+<th style="text-align:left"><strong>代码名</strong></th>
+<th style="text-align:left"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">TAQ-V</td>
+<td style="text-align:left">ar_schotel</td>
+<td style="text-align:left">SCAR-H</td>
+</tr>
+<tr>
+<td style="text-align:left">SO-14</td>
+<td style="text-align:left">dm_soscar14</td>
+<td style="text-align:left">Socom M14</td>
+</tr>
+<tr>
+<td style="text-align:left">弗基泰克侦察步枪</td>
+<td style="text-align:left">dm_msecho</td>
+<td style="text-align:left">458. SOCOM AR-15</td>
+</tr>
+<tr>
+<td style="text-align:left">拉克曼762</td>
+<td style="text-align:left">ar_golf3</td>
+<td style="text-align:left">HK G3A3</td>
+</tr>
+<tr>
+<td style="text-align:left">克洛南烈风</td>
+<td style="text-align:left">ar_ngsierra</td>
+<td style="text-align:left">RM277</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>冲锋枪</strong></th>
+<th style="text-align:left"><strong>代码名</strong></th>
+<th style="text-align:left"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">拉克曼微冲</td>
+<td style="text-align:left">sm_mpapa5</td>
+<td style="text-align:left">HK MP5A2</td>
+</tr>
+<tr>
+<td style="text-align:left">BAS-P</td>
+<td style="text-align:left">sm_mpapax</td>
+<td style="text-align:left">SIG MPX</td>
+</tr>
+<tr>
+<td style="text-align:left">MX9</td>
+<td style="text-align:left">sm_apapa</td>
+<td style="text-align:left">AUG 9 PARA</td>
+</tr>
+<tr>
+<td style="text-align:left">瓦兹涅夫9K</td>
+<td style="text-align:left">sm_aviktor</td>
+<td style="text-align:left">PP19-01勇士</td>
+</tr>
+<tr>
+<td style="text-align:left">FSS飓风</td>
+<td style="text-align:left">sm_alpha57</td>
+<td style="text-align:left">AR57</td>
+</tr>
+<tr>
+<td style="text-align:left">迷你巴克</td>
+<td style="text-align:left">sm_beta</td>
+<td style="text-align:left">PP19野牛</td>
+</tr>
+<tr>
+<td style="text-align:left">菲内克45</td>
+<td style="text-align:left">sm_victor</td>
+<td style="text-align:left">Vector.45</td>
+</tr>
+<tr>
+<td style="text-align:left">PDSW528</td>
+<td style="text-align:left">sm_papa90</td>
+<td style="text-align:left">P90</td>
+</tr>
+<tr>
+<td style="text-align:left">ISO 45</td>
+<td style="text-align:left">sm_acharlie45</td>
+<td style="text-align:left">ACP45</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">sm_uzulu</td>
+<td style="text-align:left">UZI</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>霰弹枪</strong></th>
+<th style="text-align:left"><strong>代码名</strong></th>
+<th style="text-align:left"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">洛克伍德300</td>
+<td style="text-align:left">sh_charlie725</td>
+<td style="text-align:left">Citori 725</td>
+</tr>
+<tr>
+<td style="text-align:left">布莱森800</td>
+<td style="text-align:left">sh_mbravo</td>
+<td style="text-align:left">590A1</td>
+</tr>
+<tr>
+<td style="text-align:left">布莱森890</td>
+<td style="text-align:left">sh_mviktor</td>
+<td style="text-align:left">590M</td>
+</tr>
+<tr>
+<td style="text-align:left">艾斯黛特12</td>
+<td style="text-align:left">sh_mike1014</td>
+<td style="text-align:left">M1014</td>
+</tr>
+<tr>
+<td style="text-align:left">KV 莫洛</td>
+<td style="text-align:left">sh_vecho</td>
+<td style="text-align:left">Vepr-12</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">sh_tsierra</td>
+<td style="text-align:left">TS-12</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>轻机枪</strong></th>
+<th style="text-align:left"><strong>代码名</strong></th>
+<th style="text-align:left"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">RAAL</td>
+<td style="text-align:left">lm_slima</td>
+<td style="text-align:left">MG338</td>
+</tr>
+<tr>
+<td style="text-align:left">HCR56</td>
+<td style="text-align:left">lm_ahotel</td>
+<td style="text-align:left">AUG-HBAR</td>
+</tr>
+<tr>
+<td style="text-align:left">伊卡洛斯556</td>
+<td style="text-align:left">lm_foxtrot</td>
+<td style="text-align:left">Fightlite MCR</td>
+</tr>
+<tr>
+<td style="text-align:left">RPK</td>
+<td style="text-align:left">lm_rkilo</td>
+<td style="text-align:left">RPK</td>
+</tr>
+<tr>
+<td style="text-align:left">RAPP-H</td>
+<td style="text-align:left">lm_kilo21</td>
+<td style="text-align:left">HK21</td>
+</tr>
+<tr>
+<td style="text-align:left">沙钦MG338</td>
+<td style="text-align:left">lm_ngolf7</td>
+<td style="text-align:left">内格夫NG7</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">lm_mkilo3</td>
+<td style="text-align:left">FN mini MK3(M249）</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>精确射手步枪</strong></th>
+<th style="text-align:left"><strong>代码名</strong></th>
+<th style="text-align:left"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">LM-S</td>
+<td style="text-align:left">dm_pgolf1</td>
+<td style="text-align:left">PSG-1</td>
+</tr>
+<tr>
+<td style="text-align:left">SPR-208</td>
+<td style="text-align:left">dm_mike24</td>
+<td style="text-align:left">M24</td>
+</tr>
+<tr>
+<td style="text-align:left">EBR-14</td>
+<td style="text-align:left">dm_mike14</td>
+<td style="text-align:left">MK14 EBR</td>
+</tr>
+<tr>
+<td style="text-align:left">SA-B50</td>
+<td style="text-align:left">dm_sa700</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">洛克伍德MK2</td>
+<td style="text-align:left">dm_sbeta</td>
+<td style="text-align:left">marlin</td>
+</tr>
+<tr>
+<td style="text-align:left">TAQ-M</td>
+<td style="text-align:left">dm_scromeo</td>
+<td style="text-align:left">FN SCAR 20S</td>
+</tr>
+<tr>
+<td style="text-align:left">弩</td>
+<td style="text-align:left">dm_crossbow</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">泰普斯湍流</td>
+<td style="text-align:left">dm_stango25</td>
+<td style="text-align:left">SR25/MK11</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>狙击步枪</strong></th>
+<th style="text-align:left"><strong>代码名</strong></th>
+<th style="text-align:left"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">MCPR-300</td>
+<td style="text-align:left">sn_mromeo</td>
+<td style="text-align:left">Barret MRAD</td>
+</tr>
+<tr>
+<td style="text-align:left">维克图斯XMR</td>
+<td style="text-align:left">sn_alpha50</td>
+<td style="text-align:left">AW50</td>
+</tr>
+<tr>
+<td style="text-align:left">西格诺50</td>
+<td style="text-align:left">sn_limax</td>
+<td style="text-align:left">Lynx GM6</td>
+</tr>
+<tr>
+<td style="text-align:left">LA-B330</td>
+<td style="text-align:left">sn_la700</td>
+<td style="text-align:left">unknown</td>
+</tr>
+<tr>
+<td style="text-align:left">SPX-80</td>
+<td style="text-align:left">sn_xmike2010</td>
+<td style="text-align:left">M2010 ESR</td>
+</tr>
+<tr>
+<td style="text-align:left">FJX 帝国</td>
+<td style="text-align:left">sn_india</td>
+<td style="text-align:left">干预M200</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">sn_walpha</td>
+<td style="text-align:left">WA2000</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>近战武器</strong></th>
+<th style="text-align:left"><strong>代码名</strong></th>
+<th style="text-align:left"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">防爆盾牌</td>
+<td style="text-align:left">me_riotshield</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">战斗匕首</td>
+<td style="text-align:left">me_tac_knife01</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">双持小太刀</td>
+<td style="text-align:left">me_sword02</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">藤棍</td>
+<td style="text-align:left">me_kalistick</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">锤子</td>
+<td style="text-align:left">me_sledgehammer</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">斧子</td>
+<td style="text-align:left">me_hachet</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">警棍</td>
+<td style="text-align:left">me_xxxx</td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>手枪</strong></th>
+<th style="text-align:left"><strong>代码名</strong></th>
+<th style="text-align:left"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">X12</td>
+<td style="text-align:left">pi_golf17</td>
+<td style="text-align:left">Glock17</td>
+</tr>
+<tr>
+<td style="text-align:left">X13全自动</td>
+<td style="text-align:left">pi_golf18</td>
+<td style="text-align:left">Glock18</td>
+</tr>
+<tr>
+<td style="text-align:left">点50GS</td>
+<td style="text-align:left">pi_decho</td>
+<td style="text-align:left">Desert Eagle .50AE</td>
+</tr>
+<tr>
+<td style="text-align:left">P890</td>
+<td style="text-align:left">pi_papa220</td>
+<td style="text-align:left">P220</td>
+</tr>
+<tr>
+<td style="text-align:left">巴西利斯克</td>
+<td style="text-align:left">pi_swhiskey</td>
+<td style="text-align:left">S&amp;W M500</td>
+</tr>
+<tr>
+<td style="text-align:left">弗基泰克西奇</td>
+<td style="text-align:left">pi_tango9</td>
+<td style="text-align:left">Tec9</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">pi_mike2011</td>
+<td style="text-align:left">m2011</td>
+</tr>
+<tr>
+<td style="text-align:left">GS 马格纳</td>
+<td style="text-align:left">pi_decho/pi_dechoauto</td>
+<td style="text-align:left">全自动沙鹰</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>发射器</strong></th>
+<th style="text-align:left"><strong>代码名</strong></th>
+<th style="text-align:left"><strong>备注</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">RPG-7</td>
+<td style="text-align:left">la_rpapa7</td>
+<td style="text-align:left">RPG-7</td>
+</tr>
+<tr>
+<td style="text-align:left">针式导弹</td>
+<td style="text-align:left">la_gromeo</td>
+<td style="text-align:left">9K38</td>
+</tr>
+<tr>
+<td style="text-align:left">标枪导弹</td>
+<td style="text-align:left">la_juliet</td>
+<td style="text-align:left">标枪导弹</td>
+</tr>
+<tr>
+<td style="text-align:left">斯特莱拉P型</td>
+<td style="text-align:left">la_kgolf</td>
+<td style="text-align:left">古斯塔夫M4</td>
+</tr>
+<tr>
+<td style="text-align:left">瑞孚G-80</td>
+<td style="text-align:left">la_mike32</td>
+<td style="text-align:left">M32</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UE5中烘培关键帧信息的插值函数实现方法]]></title>
+        <id>https://dest1yo.github.io/post/interpolate-keyframes-function-in-unreal-5/</id>
+        <link href="https://dest1yo.github.io/post/interpolate-keyframes-function-in-unreal-5/">
+        </link>
+        <updated>2023-07-01T13:36:54.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>UE5中烘培关键帧信息的插值函数实现方法</p>
+</blockquote>
+<h1 id="使用环境">🍬使用环境</h1>
+<hr>
+<p>这是一段设置动画序列关键帧的代码：</p>
+<pre><code class="language-cpp">// 遍历骨骼信息映射
+// InvalidBoneMaps为TMap&lt;int, FString&gt;类型，int为骨骼序号BoneIdx，FString为骨骼名BoneName
+for (TTuple&lt;int, FString&gt; BoneMap : InvalidBoneMaps)
+{
+	int32 BoneIdx = BoneMap.Key;
+	FName BoneName = FName(*BoneMap.Value);
+
+	// 获取骨骼RefPose，仅作为动画信息示例
+	FTransform RefPoseTransform = RefSk.GetRefBonePose()[BoneIdx];
+	FVector RefPosePosition = RefPoseTransform.GetLocation();
+	FQuat RefPoseRotation = RefPoseTransform.GetRotation();
+	FVector RefPoseScale = RefPoseTransform.GetScale3D();
+
+	// 初始化一段总帧数长度的RefPose，包括Positon、Rotation、Scale
+	TArray&lt;FVector&gt; PosData;
+	PosData.Init(RefPosePosition, FrameCount);
+
+	TArray&lt;FQuat&gt; RotData;
+	RotData.Init(RefPoseRotation, FrameCount);
+
+	TArray&lt;FVector&gt; ScaleData;
+	ScaleData.Init(RefPoseScale, FrameCount);
+
+	// 如果骨骼轨道添加成功
+	if (Controller.AddBoneCurve(BoneName))
+	{
+		// 设置骨骼轨道所有关键帧
+		Controller.SetBoneTrackKeys(BoneName, PosData, RotData, ScaleData);
+	}
+}
+</code></pre>
+<p>一般来说，想要在UE5里面给动画序列填充关键帧信息，要使用如下函数给骨骼轨道设置关键帧。</p>
+<pre><code class="language-cpp">SetBoneTrackKeys(BoneName, PosData, RotData, ScaleData)
+</code></pre>
+<p>其中后三个Data参数均为总关键帧长度的动画数据数组，函数是根据数组元素位次给对应帧数设置关键帧信息。</p>
+<p>如果我们输入的关键帧信息没有逐帧填有关键帧信息，就不能使用这个函数来直接设置动画序列的关键帧，这使得我们要给动画信息提前进行插值烘培成完整关键帧数组。</p>
+<aside>
+💡 如果我们有一个总帧数14的动画，关键帧信息并不是逐帧的，比如仅有帧{1, 5, 7, 10}，如果我们想烘培成{0, 1, 2, 3, 4, 5, 6, 7, 8 ,9, 10, 11, 12, 13}，则需要编写一个插值函数用以烘培完整关键帧信息。
+</aside>
+<h1 id="函数实现">🍪函数实现</h1>
+<hr>
+<h2 id="lerp-functions">Lerp Functions</h2>
+<blockquote>
+<p>定义重载函数以实现多种类型的插值</p>
+</blockquote>
+<pre><code class="language-cpp">// FTransform Lerp
+static FTransform LerpSomething(const FTransform&amp; A, const FTransform&amp; B, const float&amp; Alpha)
+{
+	return FTransform {
+			FQuat::Slerp(A.GetRotation(), B.GetRotation(), Alpha)
+		, FMath::Lerp(A.GetLocation(), B.GetLocation(), Alpha)
+		, FMath::Lerp(A.GetScale3D(), B.GetScale3D(), Alpha)
+	};
+}
+
+// FVector Lerp
+static FVector LerpSomething(const FVector&amp; A, const FVector&amp; B, const float&amp; Alpha)
+{
+	return FMath::Lerp(A, B, Alpha);
+}
+
+// FQuat SLerp
+static FQuat LerpSomething(const FQuat&amp; A, const FQuat&amp; B, const float&amp; Alpha)
+{
+	return FQuat::Slerp(A, B, Alpha);
+}
+</code></pre>
+<h2 id="interpolate-function">Interpolate Function</h2>
+<blockquote>
+<p>使用模版类以实现多种类型的插值</p>
+</blockquote>
+<pre><code class="language-cpp">// Interpolate function for types: FVector / FQuat / FTransform
+// TMap&lt;int32, T&gt; =&gt; &lt;Frame, AnimInfo&gt;
+template&lt;typename T&gt;
+// UFUNCTION(BlueprintCallable, Category = &quot;AnimHelper&quot;)
+static TMap&lt;int32, T&gt; InterpolateSomething(const TMap&lt;int32, T&gt;&amp; InTransformMap, int32 FrameCount)
+{
+	// Step 1
+	// 定义OutTransformMap并提前预留好内存大小，即总关键帧长度
+	TMap&lt;int32, T&gt; OutTransformMap;
+	OutTransformMap.Reserve(FrameCount);
+
+	// 获取第一帧和最后一帧
+	constexpr int32 StartFrame = 0;
+	const int32 EndFrame = FrameCount - 1;
+
+	// 找到第一个关键帧
+	int32 StartKeyframe = InTransformMap.begin()-&gt;Key;
+	// 找到最后一个关键帧，因为TMap.end()获取的是最后一个元素的下一个元素，所以要转成数组再提出最后一帧的位置
+	int32 EndKeyframe = InTransformMap.Array().Last().Key;
+
+	// Step 2
+	// 如果第一个关键帧并不为第一帧(0)，则填充第一帧到第一个关键帧的前一帧为第一个关键帧
+	// [StartFrame, StartKeyframe) = StartKeyframe.Value
+	if (StartFrame &lt; StartKeyframe)
+	{
+		for (int Frame = StartFrame; Frame &lt; StartKeyframe; ++Frame)
+		{
+			OutTransformMap.Emplace(Frame, InTransformMap[StartKeyframe]);
+		}
+	}
+
+	// Step 3
+	// 遍历从第一个关键帧到最后一个关键帧
+	for (int32 CurrentFrame = StartKeyframe; CurrentFrame &lt;= EndKeyframe; ++CurrentFrame)
+	{
+		T BakedFrameData;
+		// 如果当前帧有关键帧, 直接复制
+		if (InTransformMap.Contains(CurrentFrame))
+		{
+			BakedFrameData = InTransformMap[CurrentFrame];
+			OutTransformMap.Emplace(CurrentFrame, BakedFrameData);
+		}
+		else //如果当前帧没有关键帧，则进行插值
+		{
+			// 找到前一个帧和后一个帧
+			int32 PreviousKeyframe = CurrentFrame - 1;
+			int32 NextKeyframe = CurrentFrame + 1;
+			
+			// 找到前后最近的关键帧
+
+			// 查找前一个关键帧
+			while (!InTransformMap.Contains(PreviousKeyframe))
+			{
+				--PreviousKeyframe;
+				if (PreviousKeyframe &lt; StartKeyframe)
+				{
+					// 如果前一个关键帧不存在，将其设置为第一个关键帧
+					PreviousKeyframe = StartKeyframe;
+					break;
+				}
+			}
+
+			// 查找后一个关键帧
+			while (!InTransformMap.Contains(NextKeyframe))
+			{
+				++NextKeyframe;
+				if (NextKeyframe &gt; EndKeyframe)
+				{
+					// 如果后一个关键帧不存在，将其设置为最后一个关键帧
+					NextKeyframe = EndKeyframe;
+					break;
+				}
+			}
+
+			const float SampleStep = NextKeyframe - PreviousKeyframe;
+
+			for (int f = PreviousKeyframe + 1; f &lt; NextKeyframe; ++f)
+			{
+				// 计算插值
+				float Alpha = float(f - PreviousKeyframe) / SampleStep;
+				BakedFrameData = LerpSomething(InTransformMap[PreviousKeyframe], InTransformMap[NextKeyframe], Alpha);
+				OutTransformMap.Emplace(f, BakedFrameData);
+			}
+
+			CurrentFrame = NextKeyframe - 1;
+		}
+	}
+
+	// Step 4
+	// 如果最后一个关键帧小于最后一帧，补充空缺的帧数全为最后一个关键帧
+	if (EndKeyframe &lt; EndFrame)
+	{
+		for (int Frame = EndKeyframe + 1; Frame &lt;= EndFrame; ++Frame)
+		{
+			OutTransformMap.Emplace(Frame, InTransformMap[EndKeyframe]);
+		}
+	}
+
+	// Step 5
+	// OutTransformMap.GenerateValueArray(); // 可以使用GenerateValueArray()输出变换信息数组
+	return OutTransformMap;
+}
+</code></pre>
+<h1 id="测试例">🍨测试例</h1>
+<hr>
+<pre><code class="language-cpp">// UFUNCTION(BlueprintCallable, Category = &quot;AnimHelper&quot;)
+static void Debuger_Print()
+{
+	TMap&lt;int32, FTransform&gt; OriginalTransformMap = {
+			{ 1, FTransform(FQuat(1,2,3,4), FVector(1,1,1), FVector(1,1,1)) }
+		, { 3, FTransform(FQuat(1,2,3,4), FVector(3,3,3), FVector(1,1,1)) }
+		, { 5, FTransform(FQuat(1,2,3,4), FVector(5,5,5), FVector(1,1,1)) }
+		, { 8, FTransform(FQuat(1,2,3,4), FVector(8,8,8), FVector(1,1,1)) }
+		, { 15, FTransform(FQuat(1,2,3,4), FVector(15,15,15), FVector(1,1,1)) }
+		, { 20, FTransform(FQuat(1,2,3,4), FVector(20,20,20), FVector(1,1,1)) }
+		, { 30, FTransform(FQuat(1,2,3,4), FVector(30,30,30), FVector(1,1,1)) }
+	};
+
+	TMap&lt;int32, FTransform&gt; OutTransformMapT = InterpolateSomething(OriginalTransformMap, 35);
+	for (auto TransformMap : OutTransformMapT)
+	{
+		SEAnim_Debug::DebugString(FString::FromInt(TransformMap.Key), TransformMap.Key), TransformMap.Value.ToString());
+	}
+
+	TMap&lt;int32, FVector&gt; OriginalPositionMap = {
+			{ 1, FVector(1,1,1) }
+		, { 3, FVector(3,3,3) }
+		, { 5, FVector(5,5,5) }
+		, { 8, FVector(8,8,8) }
+		, { 15, FVector(15,15,15) }
+		, { 20, FVector(20,20,20) }
+		, { 30, FVector(30,30,30) }
+	};
+
+	TMap&lt;int32, FVector&gt; OutTransformMap = InterpolateSomething(OriginalPositionMap, 35);
+	for (auto TransformMap : OutTransformMap)
+	{
+		SEAnimDebuger::DebugString(FString::FromInt(TransformMap.Key), TransformMap.Key), TransformMap.Value.ToString());
+	}
+}
+</code></pre>
+]]></content>
+    </entry>
+</feed>
