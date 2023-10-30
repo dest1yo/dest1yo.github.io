@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodwiki=self.webpackChunkcodwiki||[]).push([[1795],{2772:o=>{o.exports=JSON.parse('{"permalink":"/dest1yo.github.io/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

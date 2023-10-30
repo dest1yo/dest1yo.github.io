@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodwiki=self.webpackChunkcodwiki||[]).push([[9413],{6624:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/dest1yo.github.io/blog/tags/docusaurus","allTagsPath":"/dest1yo.github.io/blog/tags","count":4,"unlisted":false}')}}]);
